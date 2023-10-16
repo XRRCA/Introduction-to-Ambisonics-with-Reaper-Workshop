@@ -1,4 +1,7 @@
-# Reaper template using IEM Plugin Suite
+# Introduction to Ambisonics with Reaper Workshop
+A brief introduction to working in Digital Audio Workstations (DAWs) with Reaper, and how to create 360 immersive soundscapes using Ambisonics through the IEM-Plugin Suite.
+
+## Reaper template using IEM Plugin Suite
  for mixing HOA (Higher Order Ambisonics) at home using headphones (Binaural)
 
  ### How to download
