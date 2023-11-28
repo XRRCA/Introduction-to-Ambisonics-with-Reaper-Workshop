@@ -2,5 +2,5 @@
 .DS_store
 
 # Ignore node_modules folder
-samples/peaks
-peaks
+iem-ambisonic-reaper-template/Backups
+iem-ambisonic-reaper-template/peaks
