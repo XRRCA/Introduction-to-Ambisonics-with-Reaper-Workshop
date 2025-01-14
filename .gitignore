@@ -1,6 +1,15 @@
-# Ignore Mac system files
-.DS_store
+
 
 # Ignore node_modules folder
 iem-ambisonic-reaper-template/Backups
 iem-ambisonic-reaper-template/peaks
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
